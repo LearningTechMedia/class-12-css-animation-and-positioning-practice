@@ -1,0 +1,29 @@
+@media (max-width: 575px){
+
+	.hvr-effect-1 h2 {
+		transform: translate(0, 0);
+	    left: 30px;
+	    font-size: 12px;
+	}
+	.hvr-effect-2:hover {
+
+	    transform: skew(1deg);
+	}
+	.hvr-effect-3 h2 {
+		transform: translate(0, 0);
+	    left: 30px;
+	    font-size: 12px;
+	    margin-top: -20px;
+	
+	}
+	.hvr-effect-2 img {
+	    height: 100px;
+	    width: 100px !important;
+	    
+	    margin-bottom: 35px;
+	 }
+	 p {
+	    
+	    font-size: 10px;
+	}
+}
